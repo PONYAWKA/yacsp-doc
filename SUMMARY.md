@@ -8,7 +8,7 @@
 * [optional](optional/README.md)
   * [Настройка фонового фарма YACSPanel (опционально)](optional/background.md)
   * [Фарм нескольких пачек аккаунтов одновременно (опционально)](optional/multi_batch.md)
-* [setup](setup/README.md)
+* [Установка](setup/README.md)
   * [Установка и настройка YACSPanel](setup/install.md)
   * [Установка необходимого ПО и настройка системы](setup/software.md)
 * [working](working/README.md)
