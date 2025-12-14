@@ -1,0 +1,46 @@
+site_name: YACSPanel Guide
+site_url: https://example.com/
+repo_url: https://github.com/
+theme:
+  name: material
+  language: ru
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.expand
+    - navigation.sections
+
+nav:
+  - 👋 Вступление: index.md
+  - 👾 Функционал YACSPanel: functional.md
+  - ⚙️ Настройка и конфигурация:
+    - Установка необходимого ПО и настройка системы: setup/software.md
+    - Установка и настройка YACSPanel: setup/install.md
+  - ⭐ Дополнительные настройки:
+    - Настройка фонового фарма: optional/background.md
+    - Фарм нескольких пачек: optional/multi_batch.md
+  - ⌨️ Работа с панелью:
+    - Режимы фарма: working/modes.md
+    - Запуск Wingman 2x2: working/wingman.md
+    - Запуск 5x5 Simulation: working/simulation.md
+    - Запуск 5x5 Classic: working/classic.md
+    - Полуавтомат Vertigo: working/vertigo.md
+    - 💵 ФАРМ БП (Armory Pass): working/armory.md
+  - Модуль ⚡Activity booster: activity_booster.md
+  - 💹 Детальный функционал:
+    - Описание кнопок: features/buttons.md
+    - Настройки settings.json: features/settings_json.md
+  - ⚠️ Решение проблем | FAQ:
+    - Решение проблем: faq/troubleshooting.md
+
