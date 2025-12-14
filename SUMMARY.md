@@ -19,4 +19,4 @@
   * [Запуск полуавтоматического фарма на карте Vertigo](working/vertigo.md)
   * [Запуск автоматического фарма в режиме "Напарники" (Wingman) 2x2](working/wingman.md)
 * [faq](faq/README.md)
-  * [Решение проблем во время работы с FSM Panel](faq/troubleshooting.md)
+  * [Решение проблем во время работы с YACS Panel](faq/troubleshooting.md)
