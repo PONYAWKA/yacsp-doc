@@ -21,5 +21,5 @@
 
 ## Контакты
 
-* Бот для управления лицензиями - [https://t.me/moonlighter\_shop\_bot](https://t.me/moonlighter_shop_bot)
-* Контакт поддержки - [https://t.me/moonlighter\_dev](https://t.me/moonlighter_dev)
+* Бот для управления лицензиями - [https://t.me/yacsp_bot](https://t.me/yacsp_bot)
+* Контакт поддержки - [https://t.me/y_a_c_s_p](https://t.me/y_a_c_s_p)
