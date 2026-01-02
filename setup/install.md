@@ -9,7 +9,7 @@
 3. Запустите yacsp.exe
 4. Введите ключ леценьзии полученный в боте
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 1. **Настройка аккаунтов**
    *   **logpass.txt**: В папке с панелью откройте файл `logpass.txt` и добавьте свои аккаунты в формате:
@@ -22,7 +22,7 @@
        _Удалите тестовый аккаунт, если он там есть. Не забудьте сохранить файл._
    *   Нажмите кнопку Import Для импорта maFIles
 
-       <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+       <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 2. **Путь к Steam** В панели нажмите **"Advanced Settigns"** и укажите путь к `steam.exe` .
    * Пример: `C:\Program Files (x86)\Steam\steam.exe`
    * _Если CTRL+V не работает, переключите раскладку на английскую._
